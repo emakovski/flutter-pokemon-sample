@@ -1,0 +1,5 @@
+package egor.makovsky.pokedex_test
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
